@@ -1,0 +1,11 @@
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\bin\Debug\Arduino PC data.exe.config
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\bin\Debug\Arduino PC data.exe
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\bin\Debug\Arduino PC data.pdb
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino PC data.csprojAssemblyReference.cache
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino_PC_data.Form1.resources
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino_PC_data.Properties.Resources.resources
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino PC data.csproj.GenerateResource.cache
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino PC data.csproj.CoreCompileInputs.cache
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino PC data.exe
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino PC data.pdb
+C:\Users\joaow\source\repos\Arduino PC data\Arduino PC data\obj\Debug\Arduino_PC_data.settings.resources
